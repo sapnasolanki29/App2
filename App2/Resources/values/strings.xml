@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App2</string>
+    <string name="action_settings">Settings</string>
+ 
+
+    <string name="sendData">Send JSON</string>
+    <string name="readJson">Read JSON Remote</string>
+  <string name="readXml">Read Xml</string>
+  </resources>
